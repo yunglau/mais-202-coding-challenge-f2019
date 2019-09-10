@@ -1,5 +1,5 @@
 # Run the script 
-
+Open Juptyer Notebook and run "Elaine_ML_Application.ipynb". 
 
 # MAIS 202 Fall 2019 - Application Coding Challenge
 
